@@ -1,0 +1,70 @@
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+header{
+    background-color: red;
+}
+span {
+    font-weight: bold;
+}
+.sp1 {
+    font-style: italic;
+    font-weight: 100;
+}
+.a1 {
+    font-weight: 700;
+    font-style: italic;
+    text-decoration: none;
+    color: rgb(0, 17, 255);
+}
+.a2 {
+    text-decoration: none;
+    color: rgb(0, 17, 255);
+}   
+footer {
+    background-color: black;
+    text-align: center;
+}
+.a3 {
+    color: blanchedalmond;
+}
+.double{
+border: 4px dashed #000;
+background: url('img/car01.jpg') center center no-repeat;
+background-size: 200px 130px;
+}
+.double2{
+border: 4px dashed #000;
+background: url('img/car02.jpg') center center no-repeat;
+background-size: 200px 130px;
+}
+.double3{
+border: 4px dashed #000;
+background: url('img/car03.jpg') center center no-repeat;
+background-size: 200px 130px;
+}
+.double4{
+border: 4px dashed #000;
+background: url('img/car04.jpg') center center no-repeat;
+background-size: 200px 130px;
+}
+.double5{
+border: 4px dashed #000;
+background: url('img/car05.jpg') center center no-repeat;
+background-size: 200px 130px;
+}
+ul li { 
+    display: inline-block;
+    width: 200px;
+    height: 130px;
+    margin-left: 20px;
+}
+ul {
+list-style: none;
+}
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
