@@ -1,0 +1,58 @@
+header{
+    text-align: center;
+}
+.n1{
+    width: 40%;
+    height: auto;
+    
+}
+footer{
+    text-align: center;
+}
+table {
+    width: 100%;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+.hi,.hi3{
+    width: 15;
+}
+hr {
+   width: 50%; 
+}
+ul {
+    list-style: none;
+}
+table {
+    text-decoration: none;
+}
+body {
+    font-size: 18px;
+    background-color: rgb(143, 22, 22);
+}
+nav{
+    background-color: rgb(0, 0, 0);
+}
+.hi3{
+    background-color: white;
+}
+.hi2{
+    color:  white;
+}
+li a{
+    line-height: 2.5;
+    color: tomato;
+}
+h3 {
+    text-align: center;
+    background-color: slategrey;
+}
+footer{
+    background-color: rgb(228, 126, 79);
+font-size: 20px;
+    color: snow;
+}

@@ -27,44 +27,23 @@ footer {
     text-align: center;
 }
 .a3 {
+    font-size: 20px;
     color: blanchedalmond;
 }
-.double{
-border: 4px dashed #000;
-background: url('img/car01.jpg') center center no-repeat;
-background-size: 200px 130px;
-}
-.double2{
-border: 4px dashed #000;
-background: url('img/car02.jpg') center center no-repeat;
-background-size: 200px 130px;
-}
-.double3{
-border: 4px dashed #000;
-background: url('img/car03.jpg') center center no-repeat;
-background-size: 200px 130px;
-}
-.double4{
-border: 4px dashed #000;
-background: url('img/car04.jpg') center center no-repeat;
-background-size: 200px 130px;
-}
-.double5{
-border: 4px dashed #000;
-background: url('img/car05.jpg') center center no-repeat;
-background-size: 200px 130px;
-}
-ul li { 
-    display: inline-block;
-    width: 200px;
-    height: 130px;
-    margin-left: 20px;
-}
-ul {
-list-style: none;
-}
+
 img {
     display: block;
     margin: auto;
     max-width: 100%;
+}
+p {
+    font-size: 18px;
+}
+    
+.m1 img {
+border: 3px dashed #000;
+display: inline;
+}
+.m1 {
+    text-align: center;
 }
